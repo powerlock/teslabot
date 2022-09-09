@@ -1,3 +1,4 @@
+In this project, we will focus on how to deploy a model on AWS. The pretrained sentiment analysis model is loaded from Hugging face.
 # Deployment screenshot:
 <img src="/src/build.png" alt="Alt text" title="Optional title">
 <img src="/src/success_deployment.png" alt="Alt text" title="Optional title">
